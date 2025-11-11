@@ -83,7 +83,7 @@ for i, col in enumerate(columns_to_plot):
 
 ## Results
 
-![properties_in_UAE](images\properties.png)
+![properties_in_UAE](images/properties.png)
 
 Box plot visualizing UAE Property Features Distribution
 
@@ -109,7 +109,7 @@ plt.show()
 
 ## Results
 
-![furnishing_counts](images\furnishing_counts.png)
+![furnishing_counts](images/furnishing_counts.png)
 
 Pie plot visualizing the Furnishing Status of Properties in UAE.
 
@@ -136,7 +136,7 @@ plt.show()
 
 ## Results
 
-![completion_status_counts](images\completion_status.png)
+![completion_status_counts](images/completion_status.png)
 Pie plot visualizing the Property Completion Status in UAE.
 
 ## Insights
@@ -165,7 +165,7 @@ ax.xaxis.set_major_formatter(plt.FuncFormatter(lambda x, p: f'${x/1000:.0f}k'))
 
 ## Results
 
-![UAE_Median_Property_Price_by_City](images\UAE_Median_Property.png)
+![UAE_Median_Property_Price_by_City](images/UAE_Median_Property.png)
 A bar plot visualizing UAE Median Property Price by City
 
 ## Insights
